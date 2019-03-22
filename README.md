@@ -1,2 +1,2 @@
 # hello-world
-you know what this is
+first git hub thingy
